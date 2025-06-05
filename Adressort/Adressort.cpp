@@ -1,4 +1,4 @@
-﻿#include <iostream>
+﻿#include <iostream>        // Я бы хотел ещё и остальные домашки таким же образом раскидать по папкам, но я не особо понимаю как, можете, пожалуйста, помочь.
 #include <fstream>
 #include <string>
 #include <algorithm>
